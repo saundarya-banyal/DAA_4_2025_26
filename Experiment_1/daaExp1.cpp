@@ -73,3 +73,4 @@ for(int i = 0; i < sizeCount; i++) {
 // a = 3, b = 2, f(n) = n log n
 // n^(logb a) = n^(log2 3)
 // Case 1 applies: T(n) = Θ(n^(log2 3))
+
